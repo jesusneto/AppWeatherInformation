@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppWeatherInformation</string>
+    <string name="zero_hits_text">Couldn\'t find your city. \n\n Go ahead and hit the search button.</string>
+</resources>
