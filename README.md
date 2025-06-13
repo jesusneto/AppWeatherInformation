@@ -6,10 +6,6 @@
       fetches data from the OpenWeatherMap API to provide real time weather information.  </b>
 </p>
 
-<p align="center">
-     <a href="PROJECT__URL">📱 Visit this Project</a>
-</p>
-
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
