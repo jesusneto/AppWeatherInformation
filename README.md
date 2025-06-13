@@ -19,5 +19,5 @@
 
 <h2 id="technologies">💻 Technologies used:</h2>
 
-- MVVM pattern
-- Retrofit2
+- Dagger Hilt
+- <a href="https://square.github.io/retrofit/">Retrofit</a>
