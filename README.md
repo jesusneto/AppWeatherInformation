@@ -19,5 +19,5 @@
 
 <h2 id="technologies">💻 Technologies used:</h2>
 
-- Dagger Hilt
-- <a href="https://square.github.io/retrofit/">Retrofit</a>
+- Dagger Hilt is for dependency injection
+- <a href="https://square.github.io/retrofit/">Retrofit</a> is a REST Client for Android which makes easier to retrieve and upload structured data like JSON via REST.
