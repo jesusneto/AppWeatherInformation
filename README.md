@@ -15,5 +15,7 @@
 
 <h2 id="technologies">💻 Technologies used:</h2>
 
-- Dagger Hilt is for dependency injection
+- <a href="https://dagger.dev/hilt/">Dagger Hilt</a> is for dependency injection
 - <a href="https://square.github.io/retrofit/">Retrofit</a> is a REST Client for Android which makes easier to retrieve and upload structured data like JSON via REST.
+- <a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a> is a class designed to store and manage UI-related data in a conscious way.
+- <a href="https://developer.android.com/topic/libraries/architecture/livedata">Live Data</a> observes changes in the data and automatically update the UI when the data changes.
