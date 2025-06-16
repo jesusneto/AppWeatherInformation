@@ -9,8 +9,7 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="./media/app_weather_information.png" alt="App Weather Information" width="600px">
 </p>
 
 <h2 id="technologies">💻 Technologies used:</h2>
